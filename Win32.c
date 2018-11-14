@@ -2,7 +2,7 @@
 #include <stdint.h>
 #include <stdbool.h>
 
-#define internal	static
+#define internal	    static
 #define local_persist   static
 #define global_variable static
 
